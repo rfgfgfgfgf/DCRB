@@ -1,1 +1,9 @@
+Instruction of using:
 
+- Download this project as zip (then open it)
+
+- Write in the console pip install nextcord
+
+- Write pip install keras.models 
+
+- Write pip install numpy
