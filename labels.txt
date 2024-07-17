@@ -1,0 +1,6 @@
+0 Python
+1 Java
+2 JavaScript
+3 PHP
+4 Ruby
+5 TypeScript
