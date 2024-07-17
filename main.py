@@ -59,3 +59,5 @@ def code_detector(path):
     confidence_score = prediction[0][index]
 
     return class_name
+
+bot.run('Your token')
