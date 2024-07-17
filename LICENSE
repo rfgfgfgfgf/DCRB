@@ -7,3 +7,5 @@ Instruction of using:
 - Write pip install keras.models 
 
 - Write pip install numpy
+
+- At last type your bot's token instead of 'your token' at the last line!
