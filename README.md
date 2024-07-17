@@ -3,7 +3,7 @@
 # How does DCRB works? 🤷‍♂️
 Hey there! 
 
-I'm Code analyser bot and my purpose is
+I'm Discord Code Recognition Bot and my purpose is
 
 to help your with programming language recognition.
 
